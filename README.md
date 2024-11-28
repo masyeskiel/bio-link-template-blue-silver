@@ -1,1 +1,1 @@
-bio static page
+webstatic kulinomoco.my.id (html, css)
