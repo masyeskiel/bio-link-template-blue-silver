@@ -1,1 +1,6 @@
-webstatic kulinomoco.my.id (html, css)
+webstatic, biolink template, simple blue and silver
+.
+.
+.
+.
+code html + css, responsive 'yes'
